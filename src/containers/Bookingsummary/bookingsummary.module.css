@@ -1,0 +1,29 @@
+.details {
+  margin-top: 15px;
+  padding: 5px;
+}
+
+.detailentry {
+  margin-top: 15px;
+  font-size: 110%;
+}
+
+.failbtn {
+  outline: none;
+  background-color: white;
+  font-size: 101%;
+  color: red;
+  padding: 7px;
+  border: 1px solid transparent;
+  margin-right: 40px;
+  cursor: pointer;
+}
+.successbtn {
+  outline: none;
+  background-color: white;
+  font-size: 101%;
+  color: green;
+  padding: 7px;
+  border: 1px solid transparent;
+  cursor: pointer;
+}
